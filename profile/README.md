@@ -1,8 +1,6 @@
 <h1 align="center">Club Info du Lycée du Golfe de Saint-Tropez</h1>
 <h3 align="center">Ici vous pourrez retrouver tous les derniers post du club info</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anousk&label=Profile%20views&color=0e75b6&style=flat" alt="anousk" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
